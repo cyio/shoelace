@@ -17,6 +17,7 @@ export type { SlHideEvent } from './sl-hide';
 export type { SlHoverEvent } from './sl-hover';
 export type { SlInitialFocusEvent } from './sl-initial-focus';
 export type { SlInputEvent } from './sl-input';
+export type { SlClickEvent } from './sl-click';
 export type { SlInvalidEvent } from './sl-invalid';
 export type { SlLazyChangeEvent } from './sl-lazy-change';
 export type { SlLazyLoadEvent } from './sl-lazy-load';
